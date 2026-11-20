@@ -7,7 +7,7 @@
     const CONFIG = {
         bride: 'Sana',
         groom: 'Farukh',
-        eventLine: 'Saturday, 12 December 2026 · Royal Palm Banquet, Lahore',
+        eventLine: 'Saturday, 05 December 2026 · Bride & Groom Marquee, Hassan Petroleum Serices Bypass road Near Masjid Fatima, Pakpattan',
         shareUrl: ''            // optional; defaults to the current page when served over http(s)
     };
 
